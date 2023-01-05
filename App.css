@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+.hourHand {
+  margin-top: 30px;
+  text-shadow: 2px 2px;
+  color:blue;
+  font-size: 50px;
+  border: #efedf1 solid 2px;
+  border-radius: 3px, 3px,3px,3px;
+}
+
+.fullColon {
+  text-shadow: 2px 2px;
+  color:black;
+  font-size: 50px;
+}
+
+.minuteHand {
+  margin-top: 30px;
+  text-shadow: 2px 2px;
+  color:green;
+  font-size: 50px;
+  border: #efedf1 solid 2px;
+  border-radius: 3px, 3px,3px,3px;
+}
+
+.secondHand {
+  margin-top: 30px;
+  text-shadow: 2px 2px;
+  color: black;
+  font-size: 50px;
+  border: #efedf1 solid 2px;
+  border-radius: 3px, 3px,3px,3px;
+}
+
+.statusTag {
+  margin-top: 30px;
+  text-shadow: 2px 2px;
+  color:blue;
+  font-size: 50px;
+  border: #efedf1 solid 2px;
+  border-radius: 3px, 3px,3px,3px;
+}
+
